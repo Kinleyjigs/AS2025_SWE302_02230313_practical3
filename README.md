@@ -84,10 +84,12 @@ go test -v
 ```
 
 
-## Conclusion
+### Conclusion
 
 In this practical, I learned how to design and implement tests based only on a system’s specification using black-box testing techniques.
 By applying Equivalence Partitioning and Boundary Value Analysis, I identified valid and invalid input ranges and key edge cases.
 Then, I created a table-driven test suite in Go to cover all partitions and boundaries.
 All tests passed successfully, proving that the implementation meets the given business rules.
 
+### Link to the repository 
+https://github.com/Kinleyjigs/AS2025_SWE302_02230313_practical3
